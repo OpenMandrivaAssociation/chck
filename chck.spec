@@ -18,7 +18,7 @@
 Summary:	Collection of C utilities taken for WLC
 Name:		chck
 Version:	0.%{date}.1
-Release:	1
+Release:	2
 License:	GPLv2+
 Url:		https://github.com/Cloudef/chck
 Source0:	chck-%{date}.tar.xz
